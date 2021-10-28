@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+  font-family: "Arial";
 }
 
 li {
@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #218c74;
   color: #fff;
   height: 90px;
 }
@@ -28,7 +28,7 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 100px;
 }
 
 .copy-container h2 {
